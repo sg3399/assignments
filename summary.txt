@@ -1,0 +1,155 @@
+  1. "BIOGUIDE_ID"
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         88
+	Longest value:         7 characters
+	Most common values:    None (11x)
+	                       A000374 (1x)
+	                       A000055 (1x)
+	                       A000372 (1x)
+	                       A000375 (1x)
+
+  2. "OFFICE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         97
+	Longest value:         30 characters
+	Most common values:    OFFICE OF THE MINORITY LEADER (2x)
+	                       OFFICE OF THE SPEAKER (1x)
+	                       OFFICE OF THE MAJORITY LEADER (1x)
+	                       OFFICE OF THE MAJORITY WHIP (1x)
+	                       OFFICE OF THE MINORITY WHIP (1x)
+
+  3. "QUARTER"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    2017Q1 (98x)
+
+  4. "PROGRAM"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         4
+	Longest value:         30 characters
+	Most common values:    OFFICIAL EXPENSES OF MEMBERS (87x)
+	                       GENERAL EXPENDITURES (8x)
+	                       SALARIES  OFFICERS & EMPLOYEES (2x)
+	                       PERSONNEL (1x)
+
+  5. "CATEGORY"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         22 characters
+	Most common values:    PERSONNEL COMPENSATION (98x)
+
+  6. "DATE"
+
+	Type of data:          Boolean
+	Contains null values:  True (excluded from calculations)
+	Unique values:         1
+	Most common values:    None (98x)
+
+  7. "TRANSCODE"
+
+	Type of data:          Boolean
+	Contains null values:  True (excluded from calculations)
+	Unique values:         1
+	Most common values:    None (98x)
+
+  8. "RECORDID"
+
+	Type of data:          Boolean
+	Contains null values:  True (excluded from calculations)
+	Unique values:         1
+	Most common values:    None (98x)
+
+  9. "PAYEE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         98
+	Longest value:         25 characters
+	Most common values:    BURKS JONATHAN (1x)
+	                       KARR ELIZABETH B (1x)
+	                       ELSHAMI NADEAM (1x)
+	                       WATKINS YELBERTON R. (1x)
+	                       HORTON BRETT H. (1x)
+
+ 10. "START DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         3
+	Smallest value:        2017-01-01
+	Largest value:         2017-01-07
+	Most common values:    2017-01-03 (94x)
+	                       2017-01-01 (3x)
+	                       2017-01-07 (1x)
+
+ 11. "END DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         1
+	Smallest value:        2017-03-31
+	Largest value:         2017-03-31
+	Most common values:    2017-03-31 (98x)
+
+ 12. "PURPOSE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         14 characters
+	Most common values:    CHIEF OF STAFF (98x)
+
+ 13. "AMOUNT"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         20
+	Smallest value:        40,088.9
+	Largest value:         43,125
+	Sum:                   4,033,224.39
+	Mean:                  41,155.351
+	Median:                41,167.13
+	StDev:                 420.796
+	Most common values:    41,167.13 (63x)
+	                       41,066.67 (9x)
+	                       40,333.33 (4x)
+	                       42,166.67 (3x)
+	                       40,873.8 (3x)
+
+ 14. "YEAR"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         1
+	Smallest value:        2,017
+	Largest value:         2,017
+	Sum:                   197,666
+	Mean:                  2,017
+	Median:                2,017
+	StDev:                 0
+	Most common values:    2,017 (98x)
+
+ 15. "RECIP (orig.)"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         98
+	Longest value:         25 characters
+	Most common values:    BURKS JONATHAN (1x)
+	                       KARR ELIZABETH B (1x)
+	                       ELSHAMI NADEAM (1x)
+	                       WATKINS YELBERTON R. (1x)
+	                       HORTON BRETT H. (1x)
+
+Row count: 98
