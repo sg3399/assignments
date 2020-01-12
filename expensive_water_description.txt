@@ -1,0 +1,3 @@
+In one line of code (step 6), we exported a dataset on expenditures from the web, inputed it into a piece of python code that filters expenditures of water over $1000 in the dataset, and outputed that into a csv named expensive_water.csv. We then found summary stats of the columns of expensive_water.csv and stored them in expensive_water_summary.txt.
+
+In step 6, the web link in quotes is the argument of the curl function, whose STDOUT is the contents of the csv file. The pipe makes the STDOUT mentioned above (the contents of the csv file) an STDIN for the filter.py script. The STDOUT of filter.py is then redirected into expensive_water.csv
